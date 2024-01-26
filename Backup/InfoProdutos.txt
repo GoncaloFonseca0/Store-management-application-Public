@@ -1,0 +1,48 @@
+
+Produto:
+Nome: Carne Picada
+Preço: 3.99€
+Stock: 89 
+Número do produto: 1 
+
+Produto:
+Nome: Massa Nacional
+Preço: 1.65€
+Stock: 273 
+Número do produto: 2 
+
+Produto:
+Nome: Arroz
+Preço: 1.00€
+Stock: 432 
+Número do produto: 3 
+
+Produto:
+Nome: Bacalhau 1 KG
+Preço: 15.00€
+Stock: 34 
+Número do produto: 4 
+
+Produto:
+Nome: Nestum
+Preço: 2.55€
+Stock: 99 
+Número do produto: 5 
+
+Produto:
+Nome: Peixe
+Preço: 5.89€
+Stock: 42342 
+Número do produto: 6 
+
+Produto:
+Nome: Pickel
+Preço: 2.34€
+Stock: 2314123 
+Número do produto: 7 
+
+Produto:
+Nome: Queijo Fresco
+Preço: 3.60€
+Stock: 20 
+Número do produto: 8 

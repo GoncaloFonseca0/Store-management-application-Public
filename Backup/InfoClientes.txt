@@ -1,0 +1,161 @@
+Cliente:
+Nome: Sofia Beatriz Pereira Teixeira
+Morada: Avenida das Flores NR12
+Telefone: 745823169
+Nif: 987654321
+
+Cliente:
+Nome: Carlos Miguel Silva Santos
+Morada: Rua do Sol NR45
+Telefone: 632154789
+Nif: 123456789
+
+Cliente:
+Nome: Joana Rita Mendes Oliveira
+Morada: Praça da Liberdade NR23
+Telefone: 879541236
+Nif: 564738291
+
+Cliente:
+Nome: Diogo Manuel Almeida Sousa
+Morada: Travessa do Bosque NR8
+Telefone: 951753468
+Nif: 192837465
+
+Cliente:
+Nome: Mariana Isabel Costa Rocha
+Morada: Rua das Estrelas NR31
+Telefone: 369874125
+Nif: 584739201
+
+Cliente:
+Nome: André Filipe Pereira Fernandes
+Morada: Avenida Central NR14
+Telefone: 582914637
+Nif: 304172856
+
+Cliente:
+Nome: Inês Carolina Alves Ramos
+Morada: Largo do Mercado NR17
+Telefone: 214785963
+Nif: 657483920
+
+Cliente:
+Nome: Pedro Miguel Oliveira Costa
+Morada: Rua da Paz NR22
+Telefone: 798456123
+Nif: 465823719
+
+Cliente:
+Nome: Ana Luísa Santos Ferreira
+Morada: Praia da Esperança NR5
+Telefone: 123789456
+Nif: 918273645
+
+Cliente:
+Nome: Tiago Manuel Rodrigues Martins
+Morada: Avenida da Liberdade NR20
+Telefone: 654987321
+Nif: 147258369
+
+Cliente:
+Nome: Carolina Sofia Oliveira Silva
+Morada: Rua dos Anjos NR9
+Telefone: 896314527
+Nif: 638271945
+
+Cliente:
+Nome: Hugo Miguel Pereira Costa
+Morada: Travessa das Oliveiras NR11
+Telefone: 475216398
+Nif: 582917364
+
+Cliente:
+Nome: Rita Patrícia Santos Almeida
+Morada: Praça da Cidade NR18
+Telefone: 321654987
+Nif: 394857216
+
+Cliente:
+Nome: Gonçalo Filipe Martins Silva
+Morada: Rua do Mar NR6
+Telefone: 987456321
+Nif: 726384195
+
+Cliente:
+Nome: Beatriz Sofia Oliveira Rodrigues
+Morada: Avenida dos Sonhos NR13
+Telefone: 564231789
+Nif: 839274615
+
+Cliente:
+Nome: Miguel Ângelo Pereira Alves
+Morada: Rua das Árvores NR28
+Telefone: 741258963
+Nif: 615294837
+
+Cliente:
+Nome: Catarina Isabel Costa Santos
+Morada: Praça do Comércio NR21
+Telefone: 985632147
+Nif: 372819465
+
+Cliente:
+Nome: Francisco Manuel Silva Oliveira
+Morada: Avenida do Sol NR10
+Telefone: 632987415
+Nif: 948273561
+
+Cliente:
+Nome: Marta Sofia Rodrigues Almeida
+Morada: Travessa do Rio NR19
+Telefone: 814329675
+Nif: 276548913
+
+Cliente:
+Nome: Nuno Filipe Santos Costa
+Morada: Rua das Pedras NR27
+Telefone: 569847213
+Nif: 738291654
+
+Cliente:
+Nome: Isabel Carolina Almeida Ramos
+Morada: Largo da Fonte NR15
+Telefone: 326598741
+Nif: 495183627
+
+Cliente:
+Nome: André Miguel Oliveira Fernandes
+Morada: Praça das Flores NR24
+Telefone: 987654321
+Nif: 137295846
+
+Cliente:
+Nome: Ana Beatriz Martins Costa
+Morada: Avenida do Bosque NR16
+Telefone: 452398176
+Nif: 867542913
+
+Cliente:
+Nome: Diogo Filipe Pereira Silva
+Morada: Rua da Montanha NR25
+Telefone: 693874215
+Nif: 219384756
+
+Cliente:
+Nome: Inês Sofia Costa Oliveira
+Morada: Praia do Sol NR26
+Telefone: 587412369
+Nif: 654321987
+
+Cliente:
+Nome: Vasco da Gama
+Morada: Rua de Sagres NR11
+Telefone: 980682134
+Nif: 231432165
+
+Cliente:
+Nome: Maria Costa
+Morada: Avenida Camões NR4
+Telefone: 965321478
+Nif: 237653098

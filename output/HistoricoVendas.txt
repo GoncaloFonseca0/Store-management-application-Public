@@ -1,0 +1,18 @@
+Data: 2024-01-21 17:39:27
+NIF do cliente: 123456789
+Produto: Nestum
+Quantidade: 2
+Total: 7.00 euros
+-----------------------
+Data: 2024-01-21 17:48:25
+NIF do cliente: 123123123
+Produto: Nestum
+Quantidade: 3
+Total: 10.50 euros
+-----------------------
+Data: 2024-01-21 20:47:52
+NIF do cliente: 123456789
+Produto: Arroz 1KG
+Quantidade: 2
+Total: 4.98 euros
+-----------------------

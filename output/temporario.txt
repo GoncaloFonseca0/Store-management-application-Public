@@ -1,0 +1,10 @@
+Nome: fasdas
+Preco: 2.55
+Stock: 99
+Num: 5
+
+Nome: das
+Preco: 123.00
+Stock: 123
+Num: 5
+
